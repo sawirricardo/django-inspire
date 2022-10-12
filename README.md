@@ -8,6 +8,10 @@ python manage.py inspire
 
 ## Installation
 
+```bash
+pip install django-inspire
+```
+
 You can install the package by adding "inspire" to your INSTALLED_APPS setting like this:
 
 ```python
